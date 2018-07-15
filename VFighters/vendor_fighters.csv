@@ -1,0 +1,11 @@
+Vendor,Health,Damage,Attacks,Dodge,Critical,Initiative
+Panasonic,136,6,4,10,10,4
+Dell,110,4,5,12,12,5
+Getac,175,8,3,2,8,3
+HP,112,2,8,4,16,2
+Gateway,108,7,4,12,18,4
+Apple,220,12,2,4,10,2
+Asus,116,4,6,14,14,6
+Lenovo,96,16,2,16,15,6
+Toshiba,280,24,1,0,0,0
+Acer,124,6,4,8,12,4
